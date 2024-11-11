@@ -1,0 +1,52 @@
+<resources>
+    <!-- Nome da aplicação -->
+    <string name="app_name">CompeticaoFutebol</string>
+
+    <!-- Labels para Time -->
+    <string name="codigo">Código</string>
+    <string name="nome">Nome</string>
+    <string name="cidade">Cidade</string>
+
+    <!-- Labels para Jogador -->
+    <string name="id">Identificação</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="dataNasc">Data de Nascimento</string>
+    <string name="time">Time</string>
+    <string name="jogador">Jogador</string>
+
+    <!-- Ações do Menu -->
+    <string name="inserir">Inserir</string>
+    <string name="modificar">Modificar</string>
+    <string name="excluir">Excluir</string>
+    <string name="buscar">Buscar</string>
+    <string name="listar">Listar</string>
+
+    <!-- Opções do Menu Principal -->
+    <string name="item_time">Gerenciar Times</string>
+    <string name="item_jogador">Gerenciar Jogadores</string>
+
+
+    <!-- Outras Labels -->
+    <string name="inicio">Bem-vindo ao App Esportivo!</string>
+    <string name="selecionar_time">Selecione um time</string>
+
+    <!-- Mensagens de Toast -->
+    <string name="time_inserido">Time inserido com sucesso</string>
+    <string name="time_modificado">Time atualizado com sucesso</string>
+    <string name="time_excluido">Time excluído com sucesso</string>
+    <string name="time_nao_encontrado">Time não encontrado</string>
+    <string name="jogador_inserido">Jogador contratado com sucesso</string>
+    <string name="jogador_modificado">Jogador atualizado com sucesso</string>
+    <string name="jogador_excluido">Jogador se aposentou</string>
+    <string name="jogador_nao_encontrado">Jogador não encontrado</string>
+    <string name="campos_obrigatorios">Por favor, preencha todos os campos</string>
+    <string name="selecione_time">Por favor, selecione um time</string>
+    <string name="campo_codigo_obrigatorio">Por favor, insira o código</string>
+
+
+
+
+    <!-- Placeholder para Fragmentos -->
+    <string name="hello_blank_fragment">Bem-vindo ao App Esportivo!</string>
+</resources>
